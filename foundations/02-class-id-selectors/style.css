@@ -1,0 +1,19 @@
+.pink {
+    background-color: rgb(225, 0, 198);
+    font-family: Verdana, "DejaVu sans", sans-serif;   
+}
+
+.big,
+#green {
+    font-size: 24px;
+}
+
+#green {
+    font-weight: bold;
+    background-color: rgb(11, 199, 11);
+}
+
+#theone {
+    color: rgb(10, 0, 198);
+    font-size: 36px;
+}
